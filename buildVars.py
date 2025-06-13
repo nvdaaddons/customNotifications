@@ -27,7 +27,7 @@ addon_info = {
 You can read just the application which sent a toast, and choose if notifications are spoken, displayed in braille or both.
 This may  improve your experience with toast notifications and help you to keep your privacy."""),
 	# version
-	"addon_version": "10.0.0",
+	"addon_version": "12.0.0",
 	# Author(s)
 	"addon_author": "José Fischer <jnunez92@gmail.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
@@ -39,7 +39,7 @@ This may  improve your experience with toast notifications and help you to keep 
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
 	"addon_minimumNVDAVersion": "2023.2.0",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion": "2024.4",
+	"addon_lastTestedNVDAVersion": "2025.1",
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
